@@ -8,9 +8,15 @@ The Main objective of this Project is to analyze retial sales data to gain actio
 
 ### Steps followed 
 
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
-- Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-- Step 3 : 
+- Step 1 : Load data into Power Query, dataset is a Excel file.
+- Step 2 : Add one more column for product size.
+- Step 3 : Doing Transformation by  doing Unit Price*Transaction qty=Total Bill.
+- Step 4 : Cleaning the data like find white spaces,add multiple colums,Remove unneccessary data,add colums for Months Name, Days name,Hours.after that close and load to the data into 
+           excel worksheet.
+  ![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/00999ead-d1f4-4c6e-8f8d-0411680eb676)
+
+- Step 5 : Creating Pivots tables
+ 
 # Snapshot of Dashboard 
 
  
