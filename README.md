@@ -15,7 +15,17 @@ The Main objective of this Project is to analyze retial sales data to gain actio
            excel worksheet.
   ![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/00999ead-d1f4-4c6e-8f8d-0411680eb676)
 
-- Step 5 : Creating Pivots tables
+- Step 5 : Creating Pivots tables.
+  ![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/3b0bca4c-3d0f-4389-8ab9-232f1c54c4df)
+
+- Step 6: Download colours for making vibrant dashboard.
+  
+  ![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/c392c946-b3a8-486b-9b58-99a537920e22)
+
+- Step 7: Making multiple types of charts based on requirmentes.
+
+![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/4727e19c-e37c-47fa-a1c9-46939a078ac7)
+
  
 # Snapshot of Dashboard 
 
