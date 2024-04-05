@@ -26,7 +26,14 @@ The Main objective of this Project is to analyze retial sales data to gain actio
 
 ![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/4727e19c-e37c-47fa-a1c9-46939a078ac7)
 
- 
+- Step 8: Create slicers for Months Name and Days Name.
+  
+![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/617b0b2c-b374-44a4-985c-1389bb9bf234)
+
+ - Step 9: Creating measures by using power piovt.
+
+   ![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/a4aa3b0d-fada-4993-ba1b-c643e453d124)
+
 # Snapshot of Dashboard 
 
  
