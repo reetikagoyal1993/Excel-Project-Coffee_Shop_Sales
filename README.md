@@ -32,12 +32,14 @@ The Main objective of this Project is to analyze retial sales data to gain actio
 
  - Step 9: Creating measures by using power piovt.
 
-   ![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/a4aa3b0d-fada-4993-ba1b-c643e453d124)
+ ![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/a4aa3b0d-fada-4993-ba1b-c643e453d124)
 
 # Snapshot of Dashboard 
 
- 
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+ ![image](https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/assets/165877247/77e8fa03-7f73-4449-ac17-a4a05820e6b9)
+
+
+
 
 # Analysis Insights
 
