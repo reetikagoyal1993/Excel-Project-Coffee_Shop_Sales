@@ -1,6 +1,6 @@
 # Excel Project-Coffee Shop Sales
 
-### Dashboard Link :
+### Dataset & Dashboard Link : https://github.com/reetikagoyal1993/Excel-Project-Coffee_Shop_Sales/blob/main/Coffe%20Shop%20Sales_1.xlsx
 
 ## Main Objective
 
